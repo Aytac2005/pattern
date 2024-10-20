@@ -1,0 +1,23 @@
+*,
+::after,
+::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+<<<<<<< HEAD
+    margin-left: 3rem;
+=======
+>>>>>>> ab1f6591f0db24e1b963eec7bcb3fb87df5242ce
+    font-size: 1.6rem;
+}
+
+.container{
+    max-width: 112.8rem;
+}

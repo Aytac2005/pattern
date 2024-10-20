@@ -1,0 +1,211 @@
+<<<<<<< HEAD
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin-left: 3rem;
+  font-size: 1.6rem;
+}
+
+.container {
+  max-width: 112.8rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+.header-top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-bottom {
+  margin-top: 2rem;
+  gap: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.imageword {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.hero .imageword .lefts h1 {
+  font-size: 7.2rem;
+  font-weight: 700;
+  line-height: 8.6rem;
+  text-align: left;
+}
+.hero .imageword .lefts p {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.3rem;
+  text-align: left;
+  margin-top: 5rem;
+}
+.hero .imageword .lefts button {
+  width: 33rem;
+  height: 5.4rem;
+  border-radius: 1rem;
+  background-color: #B8926A;
+  margin-top: 4.2rem;
+}
+
+.imageword .rights img {
+  width: 100%;
+  height: 75.7rem;
+  border-radius: 1rem;
+  opacity: 0px;
+  position: relative;
+}
+
+.common {
+  display: flex;
+  width: 100%;
+  height: 193px;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.common .group {
+  position: relative;
+  text-align: center;
+}
+.common .group .save {
+  position: absolute;
+  bottom: 0;
+}
+.common .group .save .name {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+}
+
+.about-us {
+  display: flex;
+  margin-top: 10rem;
+}
+.about-us .rectangle {
+  width: 100%;
+  height: 412px;
+  left: 30px;
+}
+.about-us .p {
+  width: 100%;
+  height: 267px;
+  line-height: 24px;
+  top: 1480px;
+  opacity: 80%;
+}
+.about-us .p button {
+  width: 11rem;
+  height: 5.4rem;
+  border-radius: 10px;
+  background-color: #B8926A;
+  border: 1px;
+  margin-top: 4.2rem;
+}
+
+.h1 {
+  margin-top: 10rem;
+}
+.h1 .products {
+  margin-top: 5rem;
+  width: 100%;
+  height: 267px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.svg {
+  width: 100%;
+  height: 267px;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.most {
+  margin-top: 8rem;
+}
+.most .popular {
+  width: 100%;
+  height: 267px;
+  margin-top: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.collections {
+  padding: 100px 0;
+}
+.collections .commons {
+  display: flex;
+  width: 100%;
+  height: 193px;
+  border-radius: 10px;
+  justify-content: space-between;
+}
+.collections .groups {
+  height: 267px;
+  position: relative;
+  text-align: center;
+}
+.collections .saves {
+  position: absolute;
+  bottom: 0;
+}
+.collections .names {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+  color: white;
+}
+.collections h1 {
+  margin-top: 8rem;
+}
+
+.value {
+  display: flex;
+}
+.value .rectangle2 {
+  height: 417px;
+  width: 100%;
+  top: 5024px;
+  margin-left: 600px;
+=======
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+}
+
+.service{
+    
+    font-display: flex;
+    gap: 2rem;
+>>>>>>> ab1f6591f0db24e1b963eec7bcb3fb87df5242ce
+}
